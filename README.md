@@ -1,4 +1,4 @@
 # Responsive_Footer
 ---
 
-# Made with HTML5 and CSS3
+# Made with advanced HTML5 and advanced CSS3
